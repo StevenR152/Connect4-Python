@@ -8,6 +8,17 @@ http://www.boardgamecapital.com/connect-four-rules.htm
 Get started by checking out the codebase and looking over the python code.
 The current codebase prints the board out each time the player makes a turn.
 
+There are several functions already defined, but unfortunately some of the function code has gone missing!
+
+- print_board
+- get_user_input
+- is_bottom_of_board
+- is_board_square_empty_at_position
+- place_piece
+- check_win
+- next_player
+- play
+
 ## TODO
 There is several parts of the game you can improve.
 
